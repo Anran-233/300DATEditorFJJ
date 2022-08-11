@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>exe.ico</file>
+        <file>300DATEditorFJJ.zip</file>
+    </qresource>
+</RCC>
