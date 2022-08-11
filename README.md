@@ -1,5 +1,6 @@
 # 300DATEditorFJJ
-300英雄数据库文件(.dat) 的可视化简易编辑器-FJJ版
+300英雄数据库文件(.dat) 的可视化简易编辑器-FJJ版  [【下载地址】](https://github.com/Anran-233/300DATEditorFJJ/releases)
+
 ![300DATEditorFJJ 预览](https://user-images.githubusercontent.com/111073265/184220817-4b7328ed-640d-4ce6-b804-34a9df619be8.png)
 
 ## 主要功能
